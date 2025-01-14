@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hello World",
+  title: "Hello world",
   description: "By Sameer Fidai",
 };
 
