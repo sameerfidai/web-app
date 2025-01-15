@@ -7,7 +7,7 @@ export default function Home() {
         <ol className="list-inside text-lg text-center font-[family-name:var(--font-geist-mono)]">
           <li>
             <a
-              className="hover:underline"
+              className="hover:underline hover:text-blue-500"
               href="https://github.com/sameerfidai"
               target="_blank"
             >
@@ -16,7 +16,7 @@ export default function Home() {
           </li>
           <li>
             <a
-              className="hover:underline"
+              className="hover:underline hover:text-blue-500"
               href="https://www.linkedin.com/in/sameerfidai/"
               target="_blank"
             >
@@ -25,25 +25,31 @@ export default function Home() {
           </li>
           <li>
             <a
-              className="hover:underline"
-              href="https://github.com/sameerfidai"
+              className="hover:underline hover:text-blue-500"
+              href="https://drive.google.com/file/d/1ZFG31IEZe1WT4-tHWMKOftzdl79hKDbF/view?usp=drive_link"
               target="_blank"
             >
               resume
             </a>
           </li>
           <li>
-            <Link href="/projects" className="hover:underline">
+            <Link
+              href="/projects"
+              className="hover:underline hover:text-blue-500"
+            >
               projects
             </Link>
           </li>
           <li>
-            <Link href="/experience" className="hover:underline">
+            <Link
+              href="/experience"
+              className="hover:underline hover:text-blue-500"
+            >
               experience
             </Link>
           </li>
           <li>
-            <Link href="/about" className="hover:underline">
+            <Link href="/about" className="hover:underline hover:text-blue-500">
               about
             </Link>
           </li>
