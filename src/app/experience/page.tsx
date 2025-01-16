@@ -8,6 +8,7 @@ export default function Experience() {
             <ul className="list-inside mt-2 opacity-70">
               <li>software engineer @ AT&T</li>
               <li>full stack dev - AT&T business center</li>
+              <li>java, spring boot, typescript, angular</li>
             </ul>
           </div>
 
@@ -16,6 +17,7 @@ export default function Experience() {
             <ul className="list-inside mt-2 opacity-70">
               <li>software engineer intern @ AT&T</li>
               <li>development of microservices - AT&T fiber</li>
+              <li>java, spring boot, azure</li>
             </ul>
           </div>
 
@@ -24,6 +26,7 @@ export default function Experience() {
             <ul className="list-inside mt-2 opacity-70">
               <li>software engineer intern @ AT&T</li>
               <li>full stack dev on internal financial application</li>
+              <li>python, flask, javascript</li>
             </ul>
           </div>
 
