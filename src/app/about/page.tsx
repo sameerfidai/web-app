@@ -6,6 +6,13 @@ export default function About() {
           <p className="mb-8">currently based in atlanta</p>
 
           <div className="mb-8">
+            <p>work:</p>
+            <ul className="list-inside mt-2 opacity-70">
+              <li>software engineer - AT&T</li>
+            </ul>
+          </div>
+
+          <div className="mb-8">
             <p>education:</p>
             <ul className="list-inside mt-2 opacity-70">
               <li>university of georgia</li>
