@@ -8,7 +8,7 @@ export default function About() {
           <div className="mb-8">
             <p>work:</p>
             <ul className="list-inside mt-2 opacity-70">
-              <li>software engineer - AT&T</li>
+              <li>fullstack software engineer - AT&T</li>
             </ul>
           </div>
 
@@ -33,7 +33,7 @@ export default function About() {
           <div>
             <p>currently:</p>
             <ul className="list-inside mt-2 opacity-70">
-              <li>reading atomic habits</li>
+              <li>watching soccer</li>
               <li>learning next.js</li>
               <li>learning guitar</li>
             </ul>
