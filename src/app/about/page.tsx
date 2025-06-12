@@ -15,8 +15,12 @@ export default function About() {
           <div className="mb-8">
             <p>education:</p>
             <ul className="list-inside mt-2 opacity-70">
+              <li>georgia institute of technology</li>
+              <li>M.S. in computer science, expected. 2027</li>
+            </ul>
+            <ul className="list-inside mt-4 opacity-70">
               <li>university of georgia</li>
-              <li>computer science, 2024</li>
+              <li>B.S. in computer science, 2024</li>
             </ul>
           </div>
 
@@ -34,7 +38,6 @@ export default function About() {
             <p>currently:</p>
             <ul className="list-inside mt-2 opacity-70">
               <li>watching soccer</li>
-              <li>learning next.js</li>
               <li>learning guitar</li>
             </ul>
           </div>
