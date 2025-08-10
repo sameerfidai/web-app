@@ -36,7 +36,7 @@ export default function Experience() {
               <li>python, java, c++, sql</li>
               <li>javascript, typescript</li>
               <li>flask, spring boot, node, next.js, react, angular</li>
-              <li>mysql, postgresql, aws, azure, docker</li>
+              <li>mysql, postgresql, mongodb, aws, azure, gradle, docker</li>
             </ul>
           </div>
         </div>
