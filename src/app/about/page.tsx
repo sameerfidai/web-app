@@ -8,7 +8,7 @@ export default function About() {
           <div className="mb-8">
             <p>work:</p>
             <ul className="list-inside mt-2 opacity-70">
-              <li>fullstack software engineer - AT&T</li>
+              <li>fullstack software engineer - <span className="text-[#00bfff]">AT&T</span></li>
             </ul>
           </div>
 

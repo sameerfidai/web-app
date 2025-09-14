@@ -6,7 +6,7 @@ export default function Experience() {
           <div className="mb-8">
             <p>2024 - present:</p>
             <ul className="list-inside mt-2 opacity-70">
-              <li>software engineer @ AT&T</li>
+              <li>software engineer @ <span className="text-[#00bfff]">AT&T</span></li>
               <li>full stack dev - AT&T business center</li>
               <li>java, spring boot, typescript, angular</li>
             </ul>
@@ -15,7 +15,7 @@ export default function Experience() {
           <div className="mb-8">
             <p>2023:</p>
             <ul className="list-inside mt-2 opacity-70">
-              <li>software engineer intern @ AT&T</li>
+              <li>software engineer intern @ <span className="text-[#00bfff]">AT&T</span></li>
               <li>development of microservices - AT&T fiber</li>
               <li>java, spring boot, azure</li>
             </ul>
@@ -24,7 +24,7 @@ export default function Experience() {
           <div className="mb-8">
             <p>2022:</p>
             <ul className="list-inside mt-2 opacity-70">
-              <li>software engineer intern @ AT&T</li>
+              <li>software engineer intern @ <span className="text-[#00bfff]">AT&T</span></li>
               <li>full stack dev on internal financial application</li>
               <li>python, flask, javascript</li>
             </ul>
