@@ -4,6 +4,28 @@ export default function Projects() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <div className="text-lg font-[family-name:var(--font-geist-mono)]">
           <div className="mb-8">
+            <p>base explorer:</p>
+            <ul className="list-inside mt-2 opacity-70">
+              <li>blockchain explorer for coinbase&apos;s base l2 network</li>
+              <li>
+                wallet balance lookups, transaction history, real-time eth
+                pricedata
+              </li>
+              <li>react, typescript, python, web3.py</li>
+              <li>
+                <a
+                  href="https://base-explorer.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:opacity-70 transition-all duration-200"
+                >
+                  website →
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="mb-8">
             <p>fivelegflex:</p>
             <ul className="list-inside mt-2 opacity-70">
               <li>sports betting props analysis app</li>
