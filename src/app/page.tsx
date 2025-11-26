@@ -26,7 +26,7 @@ export default function Home() {
           <li>
             <a
               className="hover:underline hover:text-blue-500"
-              href="https://drive.google.com/file/d/1Dkx_vemHr_c4zITDJj6NFDj3D3PjlZpN/view?usp=sharing"
+              href="https://drive.google.com/file/d/1KkJWry14gl9b34ZmnDqjQH8dg3kDuZn4/view?usp=sharing"
               target="_blank"
             >
               resume
