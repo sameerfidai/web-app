@@ -4,7 +4,7 @@ export default function About() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <div className="text-lg font-[family-name:var(--font-geist-mono)]">
           <div className="mb-8">
-            <p>cs master's student at georgia tech</p>
+            <p>cs master&apos;s student at georgia tech</p>
             <p>focused on backend engineering, distributed systems,</p>
             <p>and building practical, scalable software</p>
           </div>
