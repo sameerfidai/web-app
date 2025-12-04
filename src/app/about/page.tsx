@@ -3,12 +3,19 @@ export default function About() {
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <div className="text-lg font-[family-name:var(--font-geist-mono)]">
-          <p className="mb-8">currently based in atlanta</p>
+          <div className="mb-8">
+            <p>cs master's student at georgia tech</p>
+            <p>focused on backend engineering, distributed systems,</p>
+            <p>and building practical, scalable software</p>
+          </div>
 
           <div className="mb-8">
             <p>work:</p>
             <ul className="list-inside mt-2 opacity-70">
-              <li>fullstack software engineer - <span className="text-[#00bfff]">AT&T</span></li>
+              <li>
+                fullstack software engineer -{" "}
+                <span className="text-[#00bfff]">AT&T</span>
+              </li>
             </ul>
           </div>
 
