@@ -18,8 +18,8 @@ export const projects: Project[] = [
         ],
         tech: ["react", "node.js", "express", "mongodb", "redis"],
         link: {
-            url: "https://github.com/sameerfidai/travel-buddy",
-            label: "website soon →",
+            url: "https://travel-buddy-phi.vercel.app/",
+            label: "website →",
         },
     },
     {
