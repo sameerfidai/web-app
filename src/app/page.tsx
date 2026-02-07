@@ -24,15 +24,6 @@ export default function Home() {
             </a>
           </li>
           <li>
-            <a
-              className="hover:underline hover:text-blue-500"
-              href="https://drive.google.com/file/d/1KkJWry14gl9b34ZmnDqjQH8dg3kDuZn4/view?usp=sharing"
-              target="_blank"
-            >
-              resume
-            </a>
-          </li>
-          <li>
             <Link
               href="/projects"
               className="hover:underline hover:text-blue-500"

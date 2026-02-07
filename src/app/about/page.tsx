@@ -6,7 +6,7 @@ export default function About() {
           <div className="mb-8">
             <p>cs master&apos;s student at georgia tech</p>
             <p>focused on backend engineering, distributed systems,</p>
-            <p>and building practical, scalable software</p>
+            <p>and large scale systems</p>
           </div>
 
           <div className="mb-8">

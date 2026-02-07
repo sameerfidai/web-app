@@ -24,4 +24,3 @@ Open [http://localhost:3000](http://localhost:3000) to view locally.
 
 - [GitHub](https://github.com/sameerfidai)
 - [LinkedIn](https://www.linkedin.com/in/sameerfidai/)
-- [Resume](https://drive.google.com/file/d/1KkJWry14gl9b34ZmnDqjQH8dg3kDuZn4/view?usp=sharing)
