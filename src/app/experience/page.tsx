@@ -4,7 +4,16 @@ export default function Experience() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <div className="text-lg font-[family-name:var(--font-geist-mono)]">
           <div className="mb-8">
-            <p>2024 - present:</p>
+            <p>december 2025 - present:</p>
+            <ul className="list-inside mt-2 opacity-70">
+              <li>senior software engineer @ <span className="text-[#00bfff]">AT&T</span></li>
+              <li>full stack dev - Daas (Diagnostics as a Service)</li>
+              <li>java, spring boot, typescript, angular, react, node.js</li>
+            </ul>
+          </div>
+
+          <div className="mb-8">
+            <p>july 2024 - december 2025:</p>
             <ul className="list-inside mt-2 opacity-70">
               <li>software engineer @ <span className="text-[#00bfff]">AT&T</span></li>
               <li>full stack dev - AT&T business center</li>
@@ -13,7 +22,7 @@ export default function Experience() {
           </div>
 
           <div className="mb-8">
-            <p>2023:</p>
+            <p>summer 2023:</p>
             <ul className="list-inside mt-2 opacity-70">
               <li>software engineer intern @ <span className="text-[#00bfff]">AT&T</span></li>
               <li>development of microservices - AT&T fiber</li>
@@ -22,7 +31,7 @@ export default function Experience() {
           </div>
 
           <div className="mb-8">
-            <p>2022:</p>
+            <p>summer 2022:</p>
             <ul className="list-inside mt-2 opacity-70">
               <li>software engineer intern @ <span className="text-[#00bfff]">AT&T</span></li>
               <li>full stack dev on internal financial application</li>
@@ -33,10 +42,9 @@ export default function Experience() {
           <div>
             <p>tech:</p>
             <ul className="list-inside mt-2 opacity-70">
-              <li>python, java, c++, sql</li>
-              <li>javascript, typescript</li>
-              <li>flask, spring boot, node, next.js, react, angular</li>
-              <li>mysql, postgresql, mongodb, aws, azure, gradle, docker</li>
+              <li>python, java, c++, javascript, typescript, sql</li>
+              <li>spring boot, fast api, node.js, next.js, react, angular, flask</li>
+              <li>docker, aws, ci/cd, azure, git, mysql, postgresql, oracle, mongodb</li>
             </ul>
           </div>
         </div>
