@@ -10,6 +10,19 @@ export interface Project {
 
 export const projects: Project[] = [
     {
+        name: "finio",
+        description: [
+            "personal finance app with real-time bank syncing and net worth tracking",
+            "plaid integration, transaction ingestion, multi-account support, daily snapshots",
+            "streaming ai financial analyst grounded in live financial data with conversation history"
+        ],
+        tech: ["next.js", "fastapi", "postgresql", "plaid", "anthropic api"],
+        link: {
+            url: "https://finio-tawny-seven.vercel.app/",
+            label: "website →",
+        },
+    },
+    {
         name: "travelbuddy",
         description: [
             "travel planning app for discovering destinations and building trips",
